@@ -71,11 +71,6 @@ JavaScript (Bootstrap + form validation)
 
 How to Use
 
-Clone this repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
 Open the index.html file in any browser:
 
 index.html
